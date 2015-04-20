@@ -1,0 +1,27 @@
+{
+  "name": "taunter-desktop-app",
+  "version": "0.1.0",
+  "description": "Taunter Desktop App",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ultreme/taunter-desktop-app"
+  },
+  "keywords": [
+    "taunter",
+    "desktop",
+    "application",
+    "desktop-app"
+  ],
+  "author": "Manfred Touron <m@42.am> (https://github.com/moul)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ultreme/taunter-desktop-app/issues"
+  },
+  "homepage": "https://github.com/ultreme/taunter-desktop-app",
+  "dependencies": {
+    "node-webkit-builder": "^1.0.11"
+  }
+}

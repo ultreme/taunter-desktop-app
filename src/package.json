@@ -1,0 +1,13 @@
+{
+    "main": "http://42k.fr/taunter/",
+    "name": "Taunter",
+    "version": "0.1.0",
+    "nodejs": false,
+    "window": {
+        "width": 800,
+        "height": 600,
+        "title": "Taunter",
+        "icon": "icon.png",
+        "toolbar": false
+    }
+}
